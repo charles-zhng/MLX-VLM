@@ -1,0 +1,8 @@
+name: mlx-vlm
+dependencies:
+  - python = 3.11
+  - pip
+  - pip:
+    - mlx-vlm
+    - ipykernel
+    - 
